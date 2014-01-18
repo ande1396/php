@@ -1,0 +1,42 @@
+#main {
+	height: 300px;
+	border: 1px solid black;
+	width: 1060px;
+}
+
+#main #one {
+	display: inline-block;
+	
+	height: 200px;
+	width: 200px;
+	border: 1px solid black;
+
+}
+#main #two  {
+	display: inline-block;
+	height: 200px;
+	width: 200px;
+	border: 1px solid black;
+
+}
+
+#main #three {
+	display: inline-block;
+	height: 200px;
+	width: 200px;
+	border: 1px solid black;
+
+}
+#main #four {
+	display: inline-block;
+	height: 200px;
+	width: 200px;
+	border: 1px solid black;
+
+}
+
+.bottom {
+	margin-top: 40px;
+	border: 1px solid black;
+	height: 100%
+}
