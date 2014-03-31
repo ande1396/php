@@ -4,7 +4,7 @@
         //adjust the values below to match your database settings
         define('DB_HOST', '127.0.0.1:3306'); // was local before localhost 
         define('DB_USER', 'root');
-        define('DB_PASS', 'OtlPHP07'); // my psssword 
+        define('DB_PASS', ''); // my psssword 
         define('DB_DATABASE', 'clockinout');
 
         //connect to database host
